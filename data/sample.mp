@@ -1,0 +1,1 @@
+¦widget„¥debug¢on¦window„¥titleºSample Konfabulator Widget¤name«main_window¥widthÍô¦heightÍô¥image…£src®Images/Sun.png¤name¤sun1§hOffsetÌú§vOffsetÌú©alignment¦center¤textˆ¤dataªClick Here¤size$¥style¤bold¤name¥text1§hOffsetÌú§vOffsetd©alignment¦center©onMouseUpÙ)sun1.opacity = (sun1.opacity / 100) * 90;
